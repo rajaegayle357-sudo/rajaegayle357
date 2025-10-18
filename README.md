@@ -18,11 +18,11 @@
 
 <h2>☁️ GRC Engineering Projects:</h2>
   
-  - [IAM Project]
+  - <b>IAM Project</b>
 
 <h2>☁️ AWS Cloud Security Projects:</h2>
   
-  - [IAM Project]
+  - <b>IAM Project</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
