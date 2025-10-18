@@ -1,11 +1,27 @@
-<h1>Hi, I'm Raj! <br/><a href="https://github.com/rajaegayle-sudo"><a href="https://www.linkedin.com/in/rajae-gayle-cybersecurity/">Cybersecurity Professional</a>
+<h1>Hi, I'm Raj🙌🏽! <br/><a href="https://github.com/rajaegayle-sudo"><a href="https://www.linkedin.com/in/rajae-gayle-cybersecurity/">Cybersecurity Professional</a>
+<h2>Welcome to my GitHub! Here you'll find projects focused on Governance, Risk and Compliance (GRC) processes, GRC Engineering implementations and Cloud Security projects aimed at helping organizations strengthen their security posture, reduce risk exposure, and maintain compliance.</h2>
 
-<h2>👨‍💻 GRC Development Projects:</h2>
+<h2>👨🏽‍💻 Governance Projects:</h2>
 
+- <b>Policy Repository (Starter Pack for a Startup)</b>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- <h2>☁️ AWS Cloud Projects:</h2>
+<h2>👨🏽‍💻 Risk Management Projects:</h2>
+
+  - <b>Sample Risk Register</b>
+  - <b>Sample Vendor Risk Management Questionnaire</b>
+ 
+<h2>👨🏽‍💻 Compliance Projects:</h2>
+
+  - <b>Mini Audit Checklist</b>
+
+<h2>☁️ GRC Engineering Projects:</h2>
+  
+  - [IAM Project]
+
+<h2>☁️ AWS Cloud Security Projects:</h2>
+  
   - [IAM Project]
 
 <h2>📺 Popular YouTube Videos</h2>
