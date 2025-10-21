@@ -14,7 +14,7 @@
  
 <h2>👨🏽‍💻 Compliance Projects:</h2>
 
-  - <b>Mini Audit Checklist</b>
+  - <b>[SOC 2 Readiness & Assessment Guide](https://drive.google.com/drive/u/0/folders/105HRWyolx3AWdhvyreuTjjzNc7dcX1La)</b>
 
 <h2>☁️ GRC Engineering Projects:</h2>
   
