@@ -10,7 +10,7 @@
 <h2>👨🏽‍💻 Risk Management Projects:</h2>
 
   - <b>Sample Risk Register</b>
-  - <b>Sample Vendor Risk Management Questionnaire</b>
+  - <b>Vendor Risk Assessment Questionnaire</b>
  
 <h2>👨🏽‍💻 Compliance Projects:</h2>
 
