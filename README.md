@@ -9,7 +9,7 @@
 
 <h2>👨🏽‍💻 Risk Management Projects:</h2>
 
-  - <b>Sample Risk Register</b>
+  - <b>[Sample Risk Register](https://docs.google.com/spreadsheets/d/1nSmO7PP0jEqPgNMTw5S1RXQOfEdbPmW1xrnPIPUSmLA/edit?gid=779025091#gid=779025091)</b>
   - <b>[Vendor Risk Assessment Questionnaire](https://drive.google.com/drive/u/0/folders/1PkplAbay0rFTa62ZREsGAN82rBzIWKlT)</b>
  
 <h2>👨🏽‍💻 Compliance Projects:</h2>
