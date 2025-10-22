@@ -10,11 +10,12 @@
 <h2>👨🏽‍💻 Risk Management Projects:</h2>
 
   - <b>Sample Risk Register</b>
-  - <b>[Vendor Risk Assessment Questionnaire](https://drive.google.com/drive/u/0/folders/105HRWyolx3AWdhvyreuTjjzNc7dcX1La)</b>
+  - <b>[Vendor Risk Assessment Questionnaire](https://drive.google.com/drive/u/0/folders/1PkplAbay0rFTa62ZREsGAN82rBzIWKlT)</b>
  
 <h2>👨🏽‍💻 Compliance Projects:</h2>
 
-  - <b>[SOC 2 Readiness & Assessment Guide](https://drive.google.com/drive/u/0/folders/105HRWyolx3AWdhvyreuTjjzNc7dcX1La)</b>
+  - <b>[SOC 2 Readiness & Assessment Guide](https://drive.google.com/drive/u/0/folders/1V_IlWjHqn_LWXvrf4DPVDISGLFJJRyhg)</b>
+  - <b>[9 Steps to Prepare for a SOC 2 Audit](https://drive.google.com/drive/u/0/folders/1hBv3KeaD-1kmhLevJFfsHC6YIF-I6H_3)</b>
 
 <h2>☁️ GRC Engineering Projects:</h2>
   
